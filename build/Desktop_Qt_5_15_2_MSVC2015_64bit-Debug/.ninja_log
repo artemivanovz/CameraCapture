@@ -1,0 +1,9 @@
+# ninja log v5
+1630	1789	7490811561270420	CameraCapture.exe	71e4f03e7d1ac20c
+16	97	7490811542553310	D:/Qt_orig/programs/CameraCapture/build/Desktop_Qt_5_15_2_MSVC2015_64bit-Debug/CameraCapture_autogen/timestamp	b700e8ee72d72011
+16	97	7490811542553310	CameraCapture_autogen/timestamp	b700e8ee72d72011
+16	97	7490811542553310	CameraCapture_autogen/mocs_compilation.cpp	b700e8ee72d72011
+99	1630	7490811560019277	CMakeFiles/CameraCapture.dir/mainwindow.cpp.obj	8f3de7715eea1b72
+16	97	7490811542553310	D:/Qt_orig/programs/CameraCapture/build/Desktop_Qt_5_15_2_MSVC2015_64bit-Debug/CameraCapture_autogen/mocs_compilation.cpp	b700e8ee72d72011
+228	2031	7490771589499229	CMakeFiles/CameraCapture.dir/CameraCapture_autogen/mocs_compilation.cpp.obj	c3073a59079e3fce
+231	2033	7490771589519251	CMakeFiles/CameraCapture.dir/main.cpp.obj	9f8fec736f5d832a
